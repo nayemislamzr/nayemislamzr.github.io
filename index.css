@@ -79,7 +79,7 @@ a {
 #skewed {
     position: absolute;
     content: "";
-    background-image: radial-gradient(#080a18 70%, white);
+    background-color: black;
     border-right: 3px solid #d7d0d0;
     border-left: 3px solid #d7d0d0;
     box-shadow: -4px -4px 4px 3px black;
@@ -95,7 +95,7 @@ a {
     content: "";
     position: absolute;
     top: 15px;
-    background: url(PNG/GitHub-Mark-Light-32px.png) no-repeat;
+    background: url(icons/GitHub-Mark-Light-32px.png) no-repeat;
     background-position: center;
     height: 32px;
     width: inherit;
@@ -148,7 +148,7 @@ h3:before {
     display: inline-block;
     font-family: Montserrat-Regular;
     content: "";
-    background-image: url(icons/black/right.svg);
+    background-image: url(icons/right.svg);
     background-repeat: no-repeat;
     height: 21px;
     width: 21px;
